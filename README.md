@@ -1,6 +1,5 @@
 # Yearly-medical-records
 A straightforward project that explores the medical records.
-
 The Medical  dataset to be investigated contains information from over 10k records and is focused on the question of knowing what has happened over the years. A number of characteristics about the patient are included in each row.
 
 
@@ -38,8 +37,13 @@ Test Results: Describes the results of a medical test conducted during the patie
 We aim to identify which patients have been admitted more frequently over the years and examine their medical records throughout that time.
 
 1: Which gender has the highest admission rate over the years?
+
 2: Which months have the highest number of admissions each year?
+
 3: Which insurance company has the highest spending?
+
 4: Percentage of Medical condition per Blood Type?
+
 5: What is the most common type of admission hospitals receive?
+
 6: Admisssion type by Test result
